@@ -26,9 +26,9 @@
 >
 > [사이트 이름]/[문제번호] 문제 이름/계정/XXX.java
 >
-> e.g) BOJ/[13460] 구슬 탈출2/nsun9505/BOJ_13460_구슬탈출2.java
+> e.g) BOJ/[13460] 구슬 탈출2/tgc03112/BOJ_13460_구슬탈출2.java
 >
-> e.g) BOJ/[13460] 구슬 탈출2/nsun9505/Readme.md
+> e.g) BOJ/[13460] 구슬 탈출2/tgc03112/Readme.md
 >
 > 백준 : BOJ/[문제번호] 문제 이름/계정/README.md
 >
@@ -41,6 +41,8 @@
 ### :family_man_girl: Contributors
 
 > [tgc03112](https://github.com/tgc03112)
+>
+> [BEOMKING](https://github.com/BEOMKING)
 
 ### :family_man_girl: 일정표
 
